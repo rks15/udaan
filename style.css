@@ -1,0 +1,79 @@
+body{
+    margin:0px;
+    padding:0px;
+    background:white;
+    }
+    .toparea{
+        width:100%;
+        height:110px;
+        background:#0d1df5;
+    
+    
+        }
+        .logo{
+            width:40%;
+            height:110px;
+            padding-left:100px;
+        }
+            .logo img{
+            height:90px;
+            margin:10px 0;
+            border-radius:50%;
+            }
+            .title{
+            width:50%;
+            height:110px;
+            padding-top:13px;
+            font-weight:bold;
+            COLOR:WHITE;
+            }
+                .title h2{
+                    text-shadow: 5px 5px 5px gray;
+
+                }
+                .title h5{
+                    text-shadow: 5px 5px 5px gray;
+                    padding-left:50px;
+                }
+                .slidearea{padding-bottom:25px;}
+                .slidearea img{
+                    height:400px;
+                    width:1190px;
+                }
+.fix{
+    position:sticky;
+    top:0;
+    z-index:1000;
+}
+                .about{
+                    height:400px;
+                    padding-top:25px;
+                    background-color:#c3dff5;
+                }
+ 
+  .wedo{
+      height:100px;
+  }
+  
+    .cad img{
+        height:200px;
+        width:100%;
+    }
+.form{
+  
+}
+.form h2{padding-top: 10.9px; padding-bottom: 10.9px;}
+.form form{padding:10.9px;background:#c3dff5;}
+    
+.lastarea{
+    background-color:rgb(15, 15, 15);
+    color:white;
+}
+    .reach{padding:20px;height:430px;}
+    .reach h1{padding-bottom:20px;}
+    .reach hr{color:blue;}
+    .box:hover {
+        transition: all 1s;
+    transform: scale(1.1,1.1);
+        box-shadow: 10px 10px 10px black;
+    }
